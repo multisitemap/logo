@@ -1,4 +1,4 @@
-# [logo.multisitemap.com | logo](https://logo.multisitemap.com/)
+# [logo.multisitemap.com](https://logo.multisitemap.com/)
 
 + [www.multisitemap.com](https://www.multisitemap.com/)
 
