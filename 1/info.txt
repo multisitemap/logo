@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Light
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: BomSymbols
+icon designer link: /korawan_m
+        
+
+fontColor: {"gradient-0":"#3D36B4","gradient-1":"#505151"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#3D36B4","gradient-1":"#505151"}
+
+      
